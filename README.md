@@ -27,6 +27,7 @@ Built a CSR web app using CodeIgniter 4 with structured database and user-friend
 
 [![Email](https://img.shields.io/badge/Email-renoldiakhdanfarros%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renoldiakhdanfarros@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akhdanfarrosr-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhdanfarrosr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282218986548)
 
 ---
 *“Building tech with purpose and curiosity.”*
