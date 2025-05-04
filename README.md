@@ -1,58 +1,32 @@
-# 👨‍💻 Akhdan Farros Renoldi
+# 👋 Akhdan Farros Renoldi
 
-Hi there! I’m Akhdan — an Informatics graduate passionate about web development, data analysis, and smart solutions. With hands-on experience building dynamic websites using Laravel and CodeIgniter, I also enjoy exploring the potential of data through machine learning, particularly using Python and NLP models like IndoBERT.
-
-Currently, I’m focusing on expanding my full-stack development skills while exploring how data-driven systems can help solve real business problems. I thrive on continuous learning and enjoy working on projects that blend creativity, logic, and real-world impact.
+Informatics graduate passionate about **web development** and **data-driven solutions**. Skilled in building dynamic websites using Laravel & CodeIgniter, and experienced in data analysis and sentiment analysis using Python and IndoBERT. Always eager to learn and work on real-world IT projects.
 
 ---
 
-## 🚀 Featured Projects & Activities
-
-### 🎓 Final Thesis — *Fine-Tuning IndoBERT for Product Review Sentiment Analysis*  
-**Feb 2025 — ITENAS Bandung**  
-- Conducted preprocessing (case folding, tokenization, stopword removal) to clean and normalize text.
-- Performed sentiment analysis to better understand customer opinions and marketing strategies.
-- Showcased how NLP and BERT-based models support data-driven business decisions in the Indonesian market.
-
-### 💧 Aquarium Automation Web System (Full-stack Developer)  
-**Dec 2023 — IoT Programming Final Project**  
-- Built a Laravel-based web app to monitor real-time water temperature data using ThingSpeak IoT integration.
-
-### 🌐 Sukapada Village MUI Website (Full-stack Developer)  
-**Jan 2024 — Community Service Project**  
-- Developed a responsive and dynamic website using CodeIgniter for community use and religious information access.
+## 🔧 Tech Stack
+- **Languages:** PHP, Python, SQL  
+- **Frameworks:** Laravel, CodeIgniter, MVC  
+- **Data Tools:** Power BI, Tableau, IndoBERT, ThingSpeak  
+- **Others:** Git, RESTful API, SAP S/4HANA Cloud
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
+**PT. INTI (Persero)** – Full-stack Developer Intern  
+Built a CSR web app using CodeIgniter 4 with structured database and user-friendly interfaces.
 
-**Full-stack Developer — PT. Industri Telekomunikasi Indonesia (Persero)**  
-*Aug – Nov 2023 | Commercial Engineering Division*  
-- Developed a web application using CodeIgniter 4 to improve internal systems.  
-- Designed and implemented admin and user interfaces for the company’s CSR (TJSL) application.  
-- Built and optimized a structured database for efficient user data management.
-
----
-
-## 🧰 Skills & Tools
-
-**Languages & Frameworks:**  
-PHP, Python, SQL, Laravel, CodeIgniter, MVC Architecture  
-
-**Data & Visualization:**  
-Power BI, Tableau  
-
-**Other Tools:**  
-ThingSpeak IoT, SAP S/4HANA Cloud, Git, RESTful APIs
+**Projects:**  
+- **Sentiment Analysis (Thesis):** Fine-tuned IndoBERT for product reviews  
+- **IoT Aquarium Monitoring:** Real-time system using Laravel + ThingSpeak  
+- **MUI Website Sukapada:** Community site using CodeIgniter
 
 ---
 
-## 📫 Let’s Connect!
+## 📬 Contact
 
-- 📧 [renoldiakhdanfarros@gmail.com](mailto:renoldiakhdanfarros@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/akhdanfarrosr)  
-- 💻 [GitHub](https://github.com/akhdanfarrosrenoldi)  
+[![Email](https://img.shields.io/badge/Email-renoldiakhdanfarros%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renoldiakhdanfarros@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhdanfarrosr-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhdanfarrosr)
 
 ---
-
-> *“Technology should not only work — it should inspire.”*
+*“Building tech with purpose and curiosity.”*
